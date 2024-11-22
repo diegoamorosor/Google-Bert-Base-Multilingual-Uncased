@@ -72,7 +72,7 @@ The output is a table with the following columns:
     Install the required Python packages using:
     
     ```bash
-    pip install transformers torch
+    pip install transformers
     ```
     
 2. **Run the Notebook**:  
